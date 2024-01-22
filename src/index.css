@@ -1,0 +1,24 @@
+body {
+  background-color: #fffbf5;
+}
+
+header {
+  background-color: #EC3A49;
+  color: white;
+  text-align: center;
+}
+
+header h1 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 900;
+}
+footer {
+  background-color: #EC3A49;
+  color: white;
+  text-align: center;
+}
+
+footer h4 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 900;
+}
